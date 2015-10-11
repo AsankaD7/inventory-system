@@ -53,6 +53,7 @@ public class AddItemForm extends javax.swing.JFrame {
         setResizable(false);
 
         jLabel1.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
+        jLabel1.setForeground(new java.awt.Color(174, 57, 233));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Add Item Form");
         jLabel1.setVerticalAlignment(javax.swing.SwingConstants.BOTTOM);
